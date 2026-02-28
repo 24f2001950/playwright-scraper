@@ -1,0 +1,12 @@
+{
+  "name": "playwright-assignment",
+  "version": "1.0.0",
+  "description": "Playwright Scraper for assignment",
+  "main": "index.js",
+  "dependencies": {
+    "playwright": "^1.42.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
